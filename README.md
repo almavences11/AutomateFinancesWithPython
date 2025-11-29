@@ -1,1 +1,1 @@
-# AutomateFinancesWithPython
+# AutomateFinancesWithPython by Alma Vences
